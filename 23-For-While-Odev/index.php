@@ -5,7 +5,7 @@
 function ucgen($value){
     $dongu = 0;
     while($dongu <= $value){
-        for($j= 1; $j <= $dongu; $j++){
+        for($a= 1; $a <= $dongu; $a++){
             echo"15";
         }
         echo "<br>";
