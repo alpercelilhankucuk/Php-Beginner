@@ -1,6 +1,5 @@
 <?php
-
-
+// Patika.dev profile adress = https://app.patika.dev/alpercelilhankucuk
 
 
 function ucgen($value){
